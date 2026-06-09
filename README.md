@@ -1,8 +1,8 @@
-# Hail, Traveler!
+# Welcome, Traveler!
 
-Welcome to my GitHub hall—an humble ledger of quests, craft, and curiosities.
+Welcome to my GitHub page — an humble ledger of quests, craft, and curiosities.
 
-## About This Hall
+## About me
 
 I am a student at 42 Heilbronn — a curious maker, tinkerer, and codewright who walks the crossroads between art and engineering. Here you'll find my school projects, current quests, and offerings of knowledge. Take a torch and look around; if something pleases thee, leave a mark.
 
@@ -22,10 +22,10 @@ I am a student at 42 Heilbronn — a curious maker, tinkerer, and codewright who
 
 ## Notable Works (highlights)
 
-- [cub3d](https://github.com/Erbsensuchen/cub3d) — a small 3D raycasting demo; graphics and math.
-- [ft_irc](https://github.com/Erbsensuchen/ft_irc) — a school-built IRC server; networking and concurrency.
-- [Inception](https://github.com/Erbsensuchen/Inception) — containerization and deployment trials.
-- [ft_transcendence](https://github.com/Erbsensuchen/ft_transcendence) — my most valuable quest yet: a web-based game built with SvelteKit and Typescript. 
+- [cub3d](https://github.com/matthiaslendle/cub3d) — a small 3D raycasting demo; graphics and math.
+- [ft_irc](https://github.com/matthiaslendle/ft_irc) — a school-built IRC server; networking and concurrency.
+- [Inception](https://github.com/matthiaslendle/Inception) — containerization and deployment trials.
+- [ft_transcendence](https://github.com/matthiaslendle/ft_transcendence) — my most valuable quest yet: a web-based game built with SvelteKit and Typescript. 
 
 Many more quests and exercises live inside the repository; explore the folders to read the code and run the demos.
 
