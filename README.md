@@ -25,7 +25,7 @@ I am a student at 42 Heilbronn — a curious maker, tinkerer, and codewright who
 - [cub3d](https://github.com/matthiaslendle/cub3d) — a small 3D raycasting demo; graphics and math.
 - [ft_irc](https://github.com/matthiaslendle/ft_irc) — a school-built IRC server; networking and concurrency.
 - [Inception](https://github.com/matthiaslendle/Inception) — containerization and deployment trials.
-- [ft_transcendence](https://github.com/matthiaslendle/ft_transcendence) — my most valuable quest yet: a web-based game built with SvelteKit and Typescript. 
+- ft_transcendence — my most valuable quest yet: a web-based game built with SvelteKit and Typescript.
 
 Many more quests and exercises live inside the repository; explore the folders to read the code and run the demos.
 
